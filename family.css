@@ -1,0 +1,49 @@
+body{
+  font-family: Sans-Serif;
+  color: Black;
+  background-image: url('act2.jpeg');
+}
+h1{
+  background-color: #84bdc2;
+  border-color: solid black;
+  opacity: 50%;
+}
+div{
+  position: absolute;
+}
+.container1,.container2,.container3{
+  background-color:#84bdc2;
+  width: 100px;
+  height: 200px;
+  border-radius: 15px;
+  padding: 50px;
+  margin: 20px;
+  opacity: 80%;
+}
+
+.pic{
+  width: 120px;
+  height: 120px;
+  border-radius:5px;
+  align-items: center;
+}
+.arrow{
+  position: absolute;
+  bottom left:10px;
+ 
+  color:black;
+}
+.container2{
+  text-align: center;
+  position: absolute;
+  left:320px;
+}
+.container3{
+  text-align: center;
+  position: absolute;
+  left:620px;
+}
+h1:hover{background-color:#328db8; transform:scale;(1.3)}
+div:hover{background-color:#328db8; transform:scale;(1.3)}
+button:hover{background-color:yellow; transform:scale;(1.3)}
+home:hover{background-color:yellow; transform:scale;(1.3)}

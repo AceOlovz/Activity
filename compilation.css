@@ -1,0 +1,36 @@
+*{
+		margin: 0;		
+		padding:0;	
+}
+.folder{
+width: 30%;
+margin-left: 5px ;
+
+border-radius: 15px;
+
+}
+.kata{
+
+background-image: linear-gradient(0.0.0.0.5),₱009688),url();
+background-position: center;
+background-size: cover;
+}
+.image img{
+width: 100%;
+border-radius: 10px;
+}
+.button1{
+ text-align: center;
+ border:none;
+}
+ .info1{
+  background-color: #03c2fc;
+  border: none;
+  border-radius: 50px;
+  color: white ;
+  font-weight: bold;
+  width: 34px;
+}
+.para1{
+  text-align: center;
+}

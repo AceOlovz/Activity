@@ -1,0 +1,28 @@
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+ body{
+margin:0;
+padding:0;
+max-width: 2000px;
+max-height:500px ;
+font-family: 'Poppins',Sans-Serif;
+display: flex;
+align-items: center;
+justify-content: center;
+height: 100vh;
+background: rgb(2, 2, 2);
+}
+p{
+  font-size: 8px;
+  line-height: 1.0;
+  text-align: justify;
+  background-size: cover;
+  -webkit-background-size: cover;
+  background-repeat:no-repeat;
+  background-position: center;
+  background-image: url("we.gif");
+  background-attachment: fixed;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(255,255,255,0);
+  color: ;
+}
+  
